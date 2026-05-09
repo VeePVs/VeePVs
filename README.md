@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-https://github.com/VeePVs/VeePVs/blob/main/README.md
+
 Data-driven Software Engineer with hands-on experience designing and executing ETL pipelines, data
 migrations (Snowflake to MySQL), and building scalable backend services. Proficient in SQL, Python, and
 cloud platforms (Google Cloud, AWS, Oracle Cloud). Experienced in REST API integration, data quality
