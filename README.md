@@ -10,11 +10,12 @@
 ---
 
 ## 🚀 About Me
-
-I am a **Software Engineering student** with hands-on experience in **software development**, **frontend and backend engineering**, and **Machine Learning using Python**.  
-I enjoy building scalable applications, transforming requirements into technical solutions, and exploring **Artificial Intelligence** through practical projects.
-
-I am currently working as a **Software Development Analyst**, collaborating in Agile environments and contributing to end-to-end software solutions.
+https://github.com/VeePVs/VeePVs/blob/main/README.md
+Data-driven Software Engineer with hands-on experience designing and executing ETL pipelines, data
+migrations (Snowflake to MySQL), and building scalable backend services. Proficient in SQL, Python, and
+cloud platforms (Google Cloud, AWS, Oracle Cloud). Experienced in REST API integration, data quality
+monitoring, and business intelligence reporting with Power BI. Strong foundation in Agile methodologies,
+CI/CD workflows, and technical documentation. Bilingual in English (B2) and Spanish (native).
 
 📍 Medellín, Colombia  
 🎓 Expected Graduation: **November 2026**  
@@ -38,24 +39,35 @@ I am currently working as a **Software Development Analyst**, collaborating in A
 ### **Software Development Analyst**  
 **Konecta** | Aug 2025 – Present
 
-- Analyze user stories and transform them into technical tasks for project planning.
-- Estimate development effort and timelines using Agile methodologies.
-- Develop frontend features with **Angular** and **TypeScript**.
-- Build backend services using **Laravel** and **PHP**.
-- Perform API testing and validation with **Postman**.
-- Support CI/CD workflows using **Jenkins**.
-- Collaborate with cross-functional teams to deliver scalable solutions.
+• Design and implement ETL pipelines to migrate data from Snowflake to MySQL, ensuring data
+integrity, schema mapping, and transformation accuracy across multiple business domains.
+• Develop, integrate, and validate backend services and REST APIs using Node.js, Laravel, and PHP,
+ensuring data consistency across enterprise applications.
+• Build and maintain data ingestion workflows that consolidate information from heterogeneous source
+systems into centralized databases.
+• Develop frontend features with Angular and TypeScript to support internal data dashboards and
+reporting tools.
+• Collaborate within Agile teams using Jira to estimate efforts, analyze user stories, and translate
+business requirements into technical specifications.
+• Support automated testing and continuous delivery processes using Docker and Jenkins (CI/CD).
+• Document databases, data process flows, and maintain data dictionaries for internal and crossfunctional teams.
 
 ---
 
 ### **Development Support Analyst**  
 **Konecta** | Jan 2025 – Aug 2025
 
-- Managed and validated incident tickets using **Jira**.
-- Monitored system reliability and performance using **Grafana**.
-- Performed frontend black-box testing focused on UX and responsiveness.
-- Tracked production errors using **Sentry**.
-- Executed database adjustments related to ETL process issues.
+• Executed SQL-based data fixes and transformations to resolve production incidents caused by ETL
+processes, ensuring data quality and integrity.
+• Built automated data pipelines to consolidate application metrics into actionable quality and
+performance reports for development teams.
+• Monitored system reliability, operational health, and data flow metrics using Grafana dashboards and
+Sentry error tracking.
+• Performed ad hoc data analysis and queries to support business-critical decision-making processes.
+• Managed structured bug-tracking and development workflows using advanced JQL filters in Jira
+(Agile/Kanban).
+• Configured containerized environments with Docker, including internal network segmentation
+applicable to secure remote access protocols.
 
 ---
 
